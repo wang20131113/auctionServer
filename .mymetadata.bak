@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module  type="WEB"  name="PortalHU"  id="myeclipse.1351750285687"  context-root="/PortalHU"  j2ee-spec="5.0"  archive="PortalHU.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebContent" />
+  </attributes>
+</project-module>
+
